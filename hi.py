@@ -5,7 +5,7 @@ from colorama import Fore ,Back,Style
 import pyfiglet 
 
 
-print(pyfiglet.figlet_format("mahimX"))
+print(pyfiglet.figlet_format("123"))
 
 print("i gonna wringt a love letter",",ooh sorry love script")
 
